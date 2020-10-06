@@ -7,4 +7,9 @@ INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luiz Go
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alfredo da Rocha Vianna Filho', 33333333333, 25500.00, TIMESTAMP WITH TIME ZONE '1897-04-23T00:00:07Z', 0);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Bethânia Viana Teles Veloso', 22222222222, 27000.00, TIMESTAMP WITH TIME ZONE '1946-06-18T00:00:08Z', 0);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Elis Regina Carvalho Costa', 11111111111, 30677.77, TIMESTAMP WITH TIME ZONE '1945-03-17T00:00:09Z', 3);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcus Vinicius de Moraes', 00000000000, 27047.74, TIMESTAMP WITH TIME ZONE '1913-10-19T00:00:10Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcus Vinicius de Moraes', 12121212121, 27047.74, TIMESTAMP WITH TIME ZONE '1913-10-19T00:00:10Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ary Evangelista Barroso', 34343434343, 23100.00, TIMESTAMP WITH TIME ZONE '1903-11-07T00:00:11Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Hermeto Pascoal', 98989898989, 24200.50, TIMESTAMP WITH TIME ZONE '1936-06-22T00:00:12Z', 6);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Nelson Antônio da Silva', 76767676767, 26098.17, TIMESTAMP WITH TIME ZONE '1911-10-28T00:00:13Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marisa de Azevedo Monte', 12345678901, 30000.10, TIMESTAMP WITH TIME ZONE '1967-07-01T00:00:14Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Oswaldo Lenine Macedo Pimentel', 98765432123, 29123.45, TIMESTAMP WITH TIME ZONE '1959-02-02T00:00:15Z', 3);
